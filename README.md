@@ -17,3 +17,4 @@ New additions are made at the top of the list
 - [CORRGAN: Sampling Realistic Financial Correlation Matrices Using Generative Adverrsarial Networks (2019)](https://arxiv.org/pdf/1910.09504.pdf)
 - [Easy and Hard Redistribution: ThePolitical Economy of Welfare States in Latin America (2017)](https://doi.org/10.1017/S1537592717002122)
 - [What makes entrepreneurs entrepreneurial? (2001)](https://www.khoslaventures.com/what-makes-entrepreneurs-entrepreneurial) - Annotated by Vinod Khosla of Khosla Ventures.
+- [The Long-term Returns on the Original S&P 500 Firms](https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0429.pdf)
