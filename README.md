@@ -19,3 +19,4 @@ New additions are made at the top of the list
 - [What makes entrepreneurs entrepreneurial? (2001)](https://www.khoslaventures.com/what-makes-entrepreneurs-entrepreneurial) - Annotated by Vinod Khosla of Khosla Ventures.
 - [The Long-term Returns on the Original S&P 500 Firms](https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0429.pdf)
 - [Artificial intelligence, algorithmic pricing, and collusion](https://voxeu.org/article/artificial-intelligence-algorithmic-pricing-and-collusion)
+- [Research, Writing, and the Mind of the Strategist](https://www.theisrm.org/documents/Foster%20(1996)%20Research,%20Writing%20and%20the%20Mind%20of%20the%20Strategist.pdf)
