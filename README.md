@@ -20,3 +20,4 @@ New additions are made at the top of the list
 - [The Long-term Returns on the Original S&P 500 Firms](https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0429.pdf)
 - [Artificial intelligence, algorithmic pricing, and collusion](https://voxeu.org/article/artificial-intelligence-algorithmic-pricing-and-collusion)
 - [Research, Writing, and the Mind of the Strategist](https://www.theisrm.org/documents/Foster%20(1996)%20Research,%20Writing%20and%20the%20Mind%20of%20the%20Strategist.pdf)
+- [Predicting Public Corruption with Neural Networks: An Analysis of Spanish Provinces](https://ideas.repec.org/a/spr/soinre/v140y2018i3d10.1007_s11205-017-1802-2.html)
