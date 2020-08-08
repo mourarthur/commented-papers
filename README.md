@@ -8,6 +8,7 @@ Direct quotes will generally be in *itallics*. Sometimes I will include direct t
 ## Read
 New additions are made at the top of the list
 
+- [Drawing Presentable Trees](notes/Trees.md)
 - [Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research (2015)](notes/Lessman.md)
 
 ## To Read
