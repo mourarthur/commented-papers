@@ -8,7 +8,7 @@ Direct quotes will generally be in *itallics*. Sometimes I will include direct t
 ## Read
 New additions are made at the top of the list
 
-- [Drawing Presentable Trees](notes/Trees.md)
+- [Drawing Presentable Trees (2008)](notes/Trees.md)
 - [Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research (2015)](notes/Lessman.md)
 
 ## To Read
@@ -18,7 +18,7 @@ New additions are made at the top of the list
 - [CORRGAN: Sampling Realistic Financial Correlation Matrices Using Generative Adverrsarial Networks (2019)](https://arxiv.org/pdf/1910.09504.pdf)
 - [Easy and Hard Redistribution: ThePolitical Economy of Welfare States in Latin America (2017)](https://doi.org/10.1017/S1537592717002122)
 - [What makes entrepreneurs entrepreneurial? (2001)](https://www.khoslaventures.com/what-makes-entrepreneurs-entrepreneurial) - Annotated by Vinod Khosla of Khosla Ventures.
-- [The Long-term Returns on the Original S&P 500 Firms](https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0429.pdf)
-- [Artificial intelligence, algorithmic pricing, and collusion](https://voxeu.org/article/artificial-intelligence-algorithmic-pricing-and-collusion)
-- [Research, Writing, and the Mind of the Strategist](https://www.theisrm.org/documents/Foster%20(1996)%20Research,%20Writing%20and%20the%20Mind%20of%20the%20Strategist.pdf)
-- [Predicting Public Corruption with Neural Networks: An Analysis of Spanish Provinces](https://ideas.repec.org/a/spr/soinre/v140y2018i3d10.1007_s11205-017-1802-2.html)
+- [The Long-term Returns on the Original S&P 500 Firms (2004)](https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0429.pdf)
+- [Artificial intelligence, algorithmic pricing, and collusion (2019)](https://voxeu.org/article/artificial-intelligence-algorithmic-pricing-and-collusion)
+- [Research, Writing, and the Mind of the Strategist (1996)](https://www.theisrm.org/documents/Foster%20(1996)%20Research,%20Writing%20and%20the%20Mind%20of%20the%20Strategist.pdf)
+- [Predicting Public Corruption with Neural Networks: An Analysis of Spanish Provinces (2018)](https://ideas.repec.org/a/spr/soinre/v140y2018i3d10.1007_s11205-017-1802-2.html)
