@@ -22,3 +22,8 @@ New additions are made at the top of the list
 - [Artificial intelligence, algorithmic pricing, and collusion (2019)](https://voxeu.org/article/artificial-intelligence-algorithmic-pricing-and-collusion)
 - [Research, Writing, and the Mind of the Strategist (1996)](https://www.theisrm.org/documents/Foster%20(1996)%20Research,%20Writing%20and%20the%20Mind%20of%20the%20Strategist.pdf)
 - [Predicting Public Corruption with Neural Networks: An Analysis of Spanish Provinces (2018)](https://ideas.repec.org/a/spr/soinre/v140y2018i3d10.1007_s11205-017-1802-2.html)
+- [Winning With AI (2019)](https://sloanreview.mit.edu/projects/winning-with-ai/)
+- [Why Indexing Works (2015)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2673262)
+- [Prosocial Spending and Happiness: Using Money to Benefit Others Pays Off (2014)](https://dash.harvard.edu/handle/1/11189976)
+- [40 years of boxplots (2012)](http://vita.had.co.nz/papers/boxplots.html)
+- [Tidy Data (2014)](https://www.jstatsoft.org/article/view/v059i10)
