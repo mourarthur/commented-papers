@@ -27,3 +27,4 @@ New additions are made at the top of the list
 - [Prosocial Spending and Happiness: Using Money to Benefit Others Pays Off (2014)](https://dash.harvard.edu/handle/1/11189976)
 - [40 years of boxplots (2012)](http://vita.had.co.nz/papers/boxplots.html)
 - [Tidy Data (2014)](https://www.jstatsoft.org/article/view/v059i10)
+- [Market Power, Inequality, and Financial Instability (2020)](https://www.federalreserve.gov/econres/feds/files/2020057pap.pdf)
