@@ -28,3 +28,8 @@ New additions are made at the top of the list
 - [40 years of boxplots (2012)](http://vita.had.co.nz/papers/boxplots.html)
 - [Tidy Data (2014)](https://www.jstatsoft.org/article/view/v059i10)
 - [Market Power, Inequality, and Financial Instability (2020)](https://www.federalreserve.gov/econres/feds/files/2020057pap.pdf)
+- [Trading Is Hazardous to Your Wealth: The Common Stock Investment Performanceof Individual Investors (2000)](https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/Individual_Investor_Performance_Final.pdf)  
+ - [Boys will be Boys: Gender, Overconfidence, and Common Stock Investment (2001)](http://faculty.haas.berkeley.edu/odean/papers/gender/BoysWillBeBoys.pdf)  
+ - [Who makes acquisitions? CEO overconfidence and the market's reaction (2008)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X08000251)  
+ - [Illusion of control as a source of poor diversification: An experimental approach (2004)](https://ideas.repec.org/p/esi/discus/2004-28.html)  
+ - [Aspects of Investor Psychology (1998)](https://doi.org/10.3905/jpm.1998.409643) - Kahneman antes do Nobel.
