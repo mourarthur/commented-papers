@@ -8,6 +8,7 @@ Direct quotes will generally be in *itallics*. Sometimes I will include direct t
 ## Read
 New additions are made at the top of the list
 
+- [40 years of boxplots (2012)](notes/Boxplots.md)
 - [Drawing Presentable Trees (2008)](notes/Trees.md)
 - [Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research (2015)](notes/Lessman.md)
 
@@ -25,7 +26,6 @@ New additions are made at the top of the list
 - [Winning With AI (2019)](https://sloanreview.mit.edu/projects/winning-with-ai/)
 - [Why Indexing Works (2015)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2673262)
 - [Prosocial Spending and Happiness: Using Money to Benefit Others Pays Off (2014)](https://dash.harvard.edu/handle/1/11189976)
-- [40 years of boxplots (2012)](http://vita.had.co.nz/papers/boxplots.html)
 - [Tidy Data (2014)](https://www.jstatsoft.org/article/view/v059i10)
 - [Market Power, Inequality, and Financial Instability (2020)](https://www.federalreserve.gov/econres/feds/files/2020057pap.pdf)
 - [Trading Is Hazardous to Your Wealth: The Common Stock Investment Performanceof Individual Investors (2000)](https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/Individual_Investor_Performance_Final.pdf)  
