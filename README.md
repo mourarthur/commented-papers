@@ -34,3 +34,4 @@ New additions are made at the top of the list
  - [Illusion of control as a source of poor diversification: An experimental approach (2004)](https://ideas.repec.org/p/esi/discus/2004-28.html)  
  - [Aspects of Investor Psychology (1998)](https://doi.org/10.3905/jpm.1998.409643) - Kahneman antes do Nobel.
  - [The best way to select features? - Comparing MDA, LIME and SHAP](https://arxiv.org/pdf/2005.12483.pdf)
+ - [Why Are American Presidential Election Campaign Polls so Variable When Votes Are so Predictable? (1993)](https://www.jstor.org/stable/194212?seq=1) - Isn't there anything newer on this topic?
