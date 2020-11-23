@@ -33,3 +33,4 @@ New additions are made at the top of the list
  - [Who makes acquisitions? CEO overconfidence and the market's reaction (2008)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X08000251)  
  - [Illusion of control as a source of poor diversification: An experimental approach (2004)](https://ideas.repec.org/p/esi/discus/2004-28.html)  
  - [Aspects of Investor Psychology (1998)](https://doi.org/10.3905/jpm.1998.409643) - Kahneman antes do Nobel.
+ - [The best way to select features? - Comparing MDA, LIME and SHAP](https://arxiv.org/pdf/2005.12483.pdf)
