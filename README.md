@@ -35,3 +35,4 @@ New additions are made at the top of the list
  - [Aspects of Investor Psychology (1998)](https://doi.org/10.3905/jpm.1998.409643) - Kahneman antes do Nobel.
  - [The best way to select features? - Comparing MDA, LIME and SHAP](https://arxiv.org/pdf/2005.12483.pdf)
  - [Why Are American Presidential Election Campaign Polls so Variable When Votes Are so Predictable? (1993)](https://www.jstor.org/stable/194212?seq=1) - Isn't there anything newer on this topic?
+ - [Ethnocultural Allodynia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330674/pdf/246.pdf)
