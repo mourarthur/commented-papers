@@ -30,10 +30,11 @@ New additions are made at the top of the list
 - [Market Power, Inequality, and Financial Instability (2020)](https://www.federalreserve.gov/econres/feds/files/2020057pap.pdf)
 - [Trading Is Hazardous to Your Wealth: The Common Stock Investment Performanceof Individual Investors (2000)](https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/Individual_Investor_Performance_Final.pdf)  
 - [Boys will be Boys: Gender, Overconfidence, and Common Stock Investment (2001)](http://faculty.haas.berkeley.edu/odean/papers/gender/BoysWillBeBoys.pdf)  
- - [Who makes acquisitions? CEO overconfidence and the market's reaction (2008)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X08000251)  
- - [Illusion of control as a source of poor diversification: An experimental approach (2004)](https://ideas.repec.org/p/esi/discus/2004-28.html)  
- - [Aspects of Investor Psychology (1998)](https://doi.org/10.3905/jpm.1998.409643) - Kahneman antes do Nobel.
- - [The best way to select features? - Comparing MDA, LIME and SHAP](https://arxiv.org/pdf/2005.12483.pdf)
- - [Why Are American Presidential Election Campaign Polls so Variable When Votes Are so Predictable? (1993)](https://www.jstor.org/stable/194212?seq=1) - Isn't there anything newer on this topic?
- - [Ethnocultural Allodynia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330674/pdf/246.pdf)
- - [Machine Learning: The High Interest Credit Card of Technical Debt (2014)](https://research.google/pubs/pub43146/)
+- [Who makes acquisitions? CEO overconfidence and the market's reaction (2008)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X08000251)  
+- [Illusion of control as a source of poor diversification: An experimental approach (2004)](https://ideas.repec.org/p/esi/discus/2004-28.html)  
+- [Aspects of Investor Psychology (1998)](https://doi.org/10.3905/jpm.1998.409643) - Kahneman antes do Nobel.
+- [The best way to select features? - Comparing MDA, LIME and SHAP](https://arxiv.org/pdf/2005.12483.pdf)
+- [Why Are American Presidential Election Campaign Polls so Variable When Votes Are so Predictable? (1993)](https://www.jstor.org/stable/194212?seq=1) - Isn't there anything newer on this topic?
+- [Ethnocultural Allodynia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330674/pdf/246.pdf)
+- [Machine Learning: The High Interest Credit Card of Technical Debt (2014)](https://research.google/pubs/pub43146/)
+- [Towards Complaint-driven ML Workflow Debugging (2020)](https://www.dropbox.com/s/yxip1pd6rnxj8ev/mlexplain-mlops20-submitted.pdf?dl=0) - [Medium post](https://medium.com/thewulab/complaint-driven-training-data-debugging-94413f6a15fb)
