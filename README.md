@@ -34,8 +34,9 @@ New additions are made at the top of the list
 - [Illusion of control as a source of poor diversification: An experimental approach (2004)](https://ideas.repec.org/p/esi/discus/2004-28.html)  
 - [Aspects of Investor Psychology (1998)](https://doi.org/10.3905/jpm.1998.409643) - Kahneman antes do Nobel.
 - [Factor Performance 2010-2019: A Lost Decade? (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3562242)
-- [The best way to select features? - Comparing MDA, LIME and SHAP](https://arxiv.org/pdf/2005.12483.pdf)
+- [The best way to select features? - Comparing MDA, LIME and SHAP (2020)](https://arxiv.org/pdf/2005.12483.pdf)
 - [Why Are American Presidential Election Campaign Polls so Variable When Votes Are so Predictable? (1993)](https://www.jstor.org/stable/194212?seq=1) - Isn't there anything newer on this topic?
-- [Ethnocultural Allodynia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330674/pdf/246.pdf)
+- [Ethnocultural Allodynia (2001)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3330674/pdf/246.pdf)
 - [Machine Learning: The High Interest Credit Card of Technical Debt (2014)](https://research.google/pubs/pub43146/)
 - [Towards Complaint-driven ML Workflow Debugging (2020)](https://www.dropbox.com/s/yxip1pd6rnxj8ev/mlexplain-mlops20-submitted.pdf?dl=0) - [Medium post](https://medium.com/thewulab/complaint-driven-training-data-debugging-94413f6a15fb)
+- [Bank Competition, Cost of Credit and Economic Activity: evidence from Brazil (2019)](https://www.bcb.gov.br/pec/wps/ingl/wps508.pdf)
