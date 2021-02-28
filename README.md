@@ -41,3 +41,4 @@ New additions are made at the top of the list
 - [Towards Complaint-driven ML Workflow Debugging (2020)](https://www.dropbox.com/s/yxip1pd6rnxj8ev/mlexplain-mlops20-submitted.pdf?dl=0) - [Medium post](https://medium.com/thewulab/complaint-driven-training-data-debugging-94413f6a15fb)
 - [Bank Competition, Cost of Credit and Economic Activity: evidence from Brazil (2019)](https://www.bcb.gov.br/pec/wps/ingl/wps508.pdf)
 - [Motivated Numeracy and Enlightened Self-Government (2013)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992)
+- [Executive Underreach, in Pandemics and Otherwise (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3649816)
