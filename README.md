@@ -43,3 +43,4 @@ New additions are made at the top of the list
 - [Motivated Numeracy and Enlightened Self-Government (2013)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992)
 - [Executive Underreach, in Pandemics and Otherwise (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3649816)
 - [Content analysis of 150 years of British periodicals (2017)](https://www.pnas.org/content/114/4/E457)
+- [Machine learning for public policy: Do we need to sacrifice accuracy to make models fair? (2020)](https://arxiv.org/abs/2012.02972)
