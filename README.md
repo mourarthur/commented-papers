@@ -44,3 +44,4 @@ New additions are made at the top of the list
 - [Executive Underreach, in Pandemics and Otherwise (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3649816)
 - [Content analysis of 150 years of British periodicals (2017)](https://www.pnas.org/content/114/4/E457)
 - [Machine learning for public policy: Do we need to sacrifice accuracy to make models fair? (2020)](https://arxiv.org/abs/2012.02972)
+- [Why Do Nigerian Scammers Say They are From Nigeria? (2012)](https://www.microsoft.com/en-us/research/publication/why-do-nigerian-scammers-say-they-are-from-nigeria/)
