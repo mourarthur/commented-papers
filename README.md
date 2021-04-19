@@ -48,3 +48,4 @@ New additions are made at the top of the list
 - [COVID-19 lockdown allows researchers to quantify the effects of human activity on wildlife (2020)](https://www.nature.com/articles/s41559-020-1237-z)
 - [Selective CO2 hydrogenation into methanol in a supercritical flow process (2020)](https://www.sciencedirect.com/science/article/abs/pii/S2212982019311631#)
 - [The Self-Designing High-Reliability Organization: Aircraft Carrier Flight Operations at Sea (1987)](https://govleaders.org/reliability.htm)
+- [Teaching on the Intersection of Visualization and Digital Humanities (2020)](https://imada.sdu.dk/~stjaenicke/data/papers/TeachingVisDH.pdf)
