@@ -1,6 +1,7 @@
 # Commented Papers
 
-My comments and notes on papers I've been reading.  
+My comments and notes on papers I've been reading. Most of the time, there will be something to be written about any given paper, even if it is just a single sentence. Eventually, though, there will be entries without notes. This is in **no way** a judgement on the paper's quality.  
+
 Direct quotes will generally be in *itallics*. Sometimes I will include direct translations alongside my own comments. I did not go to great lenghts to separate one from the other, but I am obviously not claiming autorship over anything that is not my original production.
 
 **Remember to always cite the original papers.** Science is built on accountability.
@@ -49,3 +50,4 @@ New additions are made at the top of the list
 - [Selective CO2 hydrogenation into methanol in a supercritical flow process (2020)](https://www.sciencedirect.com/science/article/abs/pii/S2212982019311631#)
 - [The Self-Designing High-Reliability Organization: Aircraft Carrier Flight Operations at Sea (1987)](https://govleaders.org/reliability.htm)
 - [Teaching on the Intersection of Visualization and Digital Humanities (2020)](https://imada.sdu.dk/~stjaenicke/data/papers/TeachingVisDH.pdf)
+- [The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations (1996)](https://www.cs.umd.edu/~ben/papers/Shneiderman1996eyes.pdf)
