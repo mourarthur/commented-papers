@@ -51,3 +51,4 @@ New additions are made at the top of the list
 - [The Self-Designing High-Reliability Organization: Aircraft Carrier Flight Operations at Sea (1987)](https://govleaders.org/reliability.htm)
 - [Teaching on the Intersection of Visualization and Digital Humanities (2020)](https://imada.sdu.dk/~stjaenicke/data/papers/TeachingVisDH.pdf)
 - [The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations (1996)](https://www.cs.umd.edu/~ben/papers/Shneiderman1996eyes.pdf)
+- [A density-based algorithm for discovering clusters in large spatial databases with noise (1996)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.121.9220) - first introduction of the DBSCAN algorithm 
