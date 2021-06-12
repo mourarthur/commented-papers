@@ -53,3 +53,5 @@ New additions are made at the top of the list
 - [The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations (1996)](https://www.cs.umd.edu/~ben/papers/Shneiderman1996eyes.pdf)
 - [A density-based algorithm for discovering clusters in large spatial databases with noise (1996)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.121.9220) - first introduction of the DBSCAN algorithm 
 - [Selecting appropriate methodological framework for time series data analysis (2018)](https://www.sciencedirect.com/science/article/pii/S2405918817300405)
+- [Nonconscious acquisition of information (1992)](https://pubmed.ncbi.nlm.nih.gov/1616179/)
+- [Deciding advantageously before knowing the advantageous strategy (1997)](https://pubmed.ncbi.nlm.nih.gov/9036851/)
