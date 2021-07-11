@@ -55,3 +55,4 @@ New additions are made at the top of the list
 - [Selecting appropriate methodological framework for time series data analysis (2018)](https://www.sciencedirect.com/science/article/pii/S2405918817300405)
 - [Nonconscious acquisition of information (1992)](https://pubmed.ncbi.nlm.nih.gov/1616179/)
 - [Deciding advantageously before knowing the advantageous strategy (1997)](https://pubmed.ncbi.nlm.nih.gov/9036851/)
+- [How do venture capitalists make decisions? (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X19301680)
