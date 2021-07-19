@@ -56,3 +56,4 @@ New additions are made at the top of the list
 - [Nonconscious acquisition of information (1992)](https://pubmed.ncbi.nlm.nih.gov/1616179/)
 - [Deciding advantageously before knowing the advantageous strategy (1997)](https://pubmed.ncbi.nlm.nih.gov/9036851/)
 - [How do venture capitalists make decisions? (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X19301680)
+- [Applications of the Golden Mean to Architecture (2012)](http://cacp.utsa.edu/images/uploads/ApplicationsoftheGoldenMean.pdf) - Quoted on Netflix's Explained S02
