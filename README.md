@@ -57,3 +57,4 @@ New additions are made at the top of the list
 - [Deciding advantageously before knowing the advantageous strategy (1997)](https://pubmed.ncbi.nlm.nih.gov/9036851/)
 - [How do venture capitalists make decisions? (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X19301680)
 - [Applications of the Golden Mean to Architecture (2012)](http://cacp.utsa.edu/images/uploads/ApplicationsoftheGoldenMean.pdf) - Quoted on Netflix's Explained S02
+- [Teste de Eficiência da *Magic Formula* de *Value Investing* para o Mercado Brasileiro de Ações (2016)](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/15280/Tese%20-%20Leonardo%20Milane%20-%20Magic%20Formula.pdf?sequence=1&isAllowed=y)
