@@ -60,3 +60,4 @@ New additions are made at the top of the list
 - [Teste de Eficiência da *Magic Formula* de *Value Investing* para o Mercado Brasileiro de Ações (2016)](http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/15280/Tese%20-%20Leonardo%20Milane%20-%20Magic%20Formula.pdf?sequence=1&isAllowed=y)
 - [Finance is Not Excused: Why Finance Should Not Flout Basic Principles of Statistics (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895330)
 - [A Brief History of Industrial Catalysis (1979)](https://www.osti.gov/biblio/1061506) - Old but gold(?)
+- [The kelly criterion in blackjack sports betting, and the stock market (2008)](https://www.sciencedirect.com/science/article/pii/B9780444532480500150)
