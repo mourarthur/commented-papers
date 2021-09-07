@@ -61,3 +61,4 @@ New additions are made at the top of the list
 - [Finance is Not Excused: Why Finance Should Not Flout Basic Principles of Statistics (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895330)
 - [A Brief History of Industrial Catalysis (1979)](https://www.osti.gov/biblio/1061506) - Old but gold(?)
 - [The kelly criterion in blackjack sports betting, and the stock market (2008)](https://www.sciencedirect.com/science/article/pii/B9780444532480500150)
+- [Verification of Forecasts Expressed in Terms of Probability (1950)](https://journals.ametsoc.org/view/journals/mwre/78/1/1520-0493_1950_078_0001_vofeit_2_0_co_2.xml) - first introduction of the Brier Score
