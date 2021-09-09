@@ -62,3 +62,5 @@ New additions are made at the top of the list
 - [A Brief History of Industrial Catalysis (1979)](https://www.osti.gov/biblio/1061506) - Old but gold(?)
 - [The kelly criterion in blackjack sports betting, and the stock market (2008)](https://www.sciencedirect.com/science/article/pii/B9780444532480500150)
 - [Verification of Forecasts Expressed in Terms of Probability (1950)](https://journals.ametsoc.org/view/journals/mwre/78/1/1520-0493_1950_078_0001_vofeit_2_0_co_2.xml) - first introduction of the Brier Score
+- [CapitalVX: A machine learning model for startup selection and exit prediction (2021)](https://www.sciencedirect.com/science/article/pii/S2405918821000040) - One of the authors works for a company that "*creates Machine Learning and Artificial Intelligence products to help investors pick successful companies*". Wonder if the paper is just a business pitch
+- [Identifying Successful Investors in the Startup Ecosystem (2015)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.5808&rep=rep1&type=pdf) - In an industry that changes so fast, how relevant is a 2015 report?
