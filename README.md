@@ -65,3 +65,4 @@ New additions are made at the top of the list
 - [CapitalVX: A machine learning model for startup selection and exit prediction (2021)](https://www.sciencedirect.com/science/article/pii/S2405918821000040) - One of the authors works for a company that "*creates Machine Learning and Artificial Intelligence products to help investors pick successful companies*". Wonder if the paper is just a business pitch
 - [Identifying Successful Investors in the Startup Ecosystem (2015)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.718.5808&rep=rep1&type=pdf) - In an industry that changes so fast, how relevant is a 2015 report?
 - [Monte Carlo Tree Search for Generating Interactive Data Analysis Interfaces (2020)](https://arxiv.org/pdf/2001.01902.pdf)
+- [Orbital Stability of the Uranian Satellite System (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0019103596955682)
