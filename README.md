@@ -69,3 +69,4 @@ New additions are made at the top of the list
 - [Orbital Stability of the Uranian Satellite System (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0019103596955682)
 - [Guglielmo’s Secret: The Enigma of the First Diving Bell Used in Underwater Archaeology (2015)](https://www.tandfonline.com/doi/pdf/10.1179/1758120614Z.00000000060)
 - [When does reputation lie? Dynamic feedbacks between costly signals, social capital and social prominence (2021)](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0298)
+- [Political sectarianism in America (2020)](https://pcl.sites.stanford.edu/sites/g/files/sbiybj22066/files/media/file/finkel-science-political.pdf)
