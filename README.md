@@ -71,3 +71,4 @@ New additions are made at the top of the list
 - [When does reputation lie? Dynamic feedbacks between costly signals, social capital and social prominence (2021)](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0298)
 - [Political sectarianism in America (2020)](https://pcl.sites.stanford.edu/sites/g/files/sbiybj22066/files/media/file/finkel-science-political.pdf)
 - [The "Criminality From Face" Illusion (2020)](https://arxiv.org/abs/2006.03895v2)
+- [Forecasting: theory and practice (2022)](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
