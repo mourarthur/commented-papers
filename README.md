@@ -72,3 +72,4 @@ New additions are made at the top of the list
 - [Political sectarianism in America (2020)](https://pcl.sites.stanford.edu/sites/g/files/sbiybj22066/files/media/file/finkel-science-political.pdf)
 - [The "Criminality From Face" Illusion (2020)](https://arxiv.org/abs/2006.03895v2)
 - [Forecasting: theory and practice (2022)](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
+- [A New Take on Voice: The Influence of BlackRock’s 'Dear CEO' Letters (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3763042)
