@@ -1,5 +1,7 @@
 # Commented Papers
 
+> [This guy said it best](https://twitter.com/Zergylord/status/1490717594353119233)
+
 My comments and notes on papers I've been reading. Most of the time, there will be something to be written about any given paper, even if it is just a single sentence. Eventually, though, there will be entries without notes. This is in **no way** a judgement on the paper's quality.  
 
 Direct quotes will generally be in *itallics*. Sometimes I will include direct translations alongside my own comments. I did not go to great lenghts to separate one from the other, but I am obviously not claiming autorship over anything that is not my original production.
