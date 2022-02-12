@@ -75,3 +75,4 @@ New additions are made at the top of the list
 - [The "Criminality From Face" Illusion (2020)](https://arxiv.org/abs/2006.03895v2)
 - [Forecasting: theory and practice (2022)](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
 - [A New Take on Voice: The Influence of BlackRock’s 'Dear CEO' Letters (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3763042)
+- [Servidor republicano: política nos "textos menores" de Maquiavel (2013)](https://www.scielo.br/j/rbcpol/a/vdwYbMzJDrBtx3wbQ7mfhyf/?lang=pt) - Nem sei como e onde encontrei esse, mas parece interessante. 
