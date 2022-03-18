@@ -77,3 +77,5 @@ New additions are made at the top of the list
 - [A New Take on Voice: The Influence of BlackRock’s 'Dear CEO' Letters (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3763042)
 - [Servidor republicano: política nos "textos menores" de Maquiavel (2013)](https://www.scielo.br/j/rbcpol/a/vdwYbMzJDrBtx3wbQ7mfhyf/?lang=pt) - Nem sei como e onde encontrei esse, mas parece interessante. 
 - [Why is Europe more equal than the United States (2021)](https://wid.world/document/why-is-europe-more-equal-than-the-united-states-world-inequality-lab-wp-2020-19/)
+- [Biases in AI Systems: A survey for practitioners (2021)](https://queue.acm.org/detail.cfm?id=3466134)
+- [Troubling Trends in Machine Learning Scholarship: Some ML papers suffer from flaws that could mislead the public and stymie future research (2019)](https://queue.acm.org/detail.cfm?id=3328534)
