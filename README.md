@@ -81,3 +81,4 @@ New additions are made at the top of the list
 - [Troubling Trends in Machine Learning Scholarship: Some ML papers suffer from flaws that could mislead the public and stymie future research (2019)](https://queue.acm.org/detail.cfm?id=3328534)
 - [Early Post-Secondary Student Performance of Adversarial Thinking (2021)](https://cs.brown.edu/~sk/Publications/Papers/Published/yk-early-ps-perf-stud-adv-think/paper.pdf)
 - [Integrated Data Science for Secondary Schools: Design and Assessment of a Curriculum (2022)](https://cs.brown.edu/~sk/Publications/Papers/Published/spddplfk-integ-ds-desn-assm-curric/paper.pdf)
+- [Emigration and Collective Action (2019)](https://www.journals.uchicago.edu/doi/pdf/10.1086/704697)
