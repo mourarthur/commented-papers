@@ -84,4 +84,5 @@ New additions are made at the top of the list
 - [Emigration and Collective Action (2019)](https://www.journals.uchicago.edu/doi/pdf/10.1086/704697)
 - [A política nas políticas de acesso à informação brasileiras: trajetória e coalizões (2020)](https://www.scielo.br/j/rap/a/nsqxzWDSh4yVPRLMhNZJkkB/?lang=pt#) - História da Lei de Acesso à Informação
 - [Job Market Signaling (1973)](https://viterbi-web.usc.edu/~shaddin/cs590fa13/papers/jobmarketsignaling.pdf)
-- [Imagining violent criminals: an experimental investigation of music stereotypes and character judgments (2018](https://link.springer.com/article/10.1007/s11292-018-9342-6)
+- [Imagining violent criminals: an experimental investigation of music stereotypes and character judgments (2018)](https://link.springer.com/article/10.1007/s11292-018-9342-6)
+- [Information Risk and Stock Returns of Companies Going Public by Merging with SPACs (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4143440)
