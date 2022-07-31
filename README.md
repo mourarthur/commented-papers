@@ -87,3 +87,4 @@ New additions are made at the top of the list
 - [Imagining violent criminals: an experimental investigation of music stereotypes and character judgments (2018)](https://link.springer.com/article/10.1007/s11292-018-9342-6)
 - [Information Risk and Stock Returns of Companies Going Public by Merging with SPACs (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4143440)
 - [Copula Concepts in Financial Markets](https://statistik.econ.kit.edu/download/Copula_Concepts_in_Financial_Markets.pdf)
+- [Deep Neural Networks and Tabular Data: A Survey (2021)](https://arxiv.org/abs/2110.01889) - Quite a buzz when it came out
