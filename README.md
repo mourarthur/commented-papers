@@ -88,3 +88,4 @@ New additions are made at the top of the list
 - [Information Risk and Stock Returns of Companies Going Public by Merging with SPACs (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4143440)
 - [Copula Concepts in Financial Markets](https://statistik.econ.kit.edu/download/Copula_Concepts_in_Financial_Markets.pdf)
 - [Deep Neural Networks and Tabular Data: A Survey (2021)](https://arxiv.org/abs/2110.01889) - Quite a buzz when it came out
+- [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network (2022)](https://arxiv.org/abs/2203.01824) - CVPR 2022; Will it quite possibly kill the LIDAR indoor mapping industry?
