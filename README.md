@@ -91,3 +91,4 @@ New additions are made at the top of the list
 - [LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network (2022)](https://arxiv.org/abs/2203.01824) - CVPR 2022; Will it quite possibly kill the LIDAR indoor mapping industry?
 - [Good Dams and Bad Dams : Environmental Criteria for Site Selection of Hydroelectric Projects (2003)](https://openknowledge.worldbank.org/handle/10986/20226)
 - [Technology Readiness Levels for Machine Learning Systems (2021)](https://arxiv.org/abs/2101.03989)
+- [Digital Social Norm Enforcement: Online Firestorms in Social Media (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155923)
