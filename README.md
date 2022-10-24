@@ -93,3 +93,4 @@ New additions are made at the top of the list
 - [Technology Readiness Levels for Machine Learning Systems (2021)](https://arxiv.org/abs/2101.03989)
 - [Digital Social Norm Enforcement: Online Firestorms in Social Media (2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155923)
 - [Forgetting the presidents (2014)](https://www.science.org/doi/10.1126/science.1259627)
+- [Life cycle assessment of battery electric vehicles and internal combustion vehicles using sugarcane ethanol in Brazil: A critical review (2022)](https://www.sciencedirect.com/science/article/pii/S2772783122000073)
