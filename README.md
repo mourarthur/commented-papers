@@ -96,3 +96,4 @@ New additions are made at the top of the list
 - [Forgetting the presidents (2014)](https://www.science.org/doi/10.1126/science.1259627)
 - [Life cycle assessment of battery electric vehicles and internal combustion vehicles using sugarcane ethanol in Brazil: A critical review (2022)](https://www.sciencedirect.com/science/article/pii/S2772783122000073)
 - [The hype cycle model: A review and future directions (2016)](https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270)
+- [Duckweed - a potential high-protein feed resource for domestic animals and fish (1995)](http://www.lrrd.org/lrrd7/1/3.htm)
