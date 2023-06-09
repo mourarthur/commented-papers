@@ -98,3 +98,4 @@ New additions are made at the top of the list
 - [The hype cycle model: A review and future directions (2016)](https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270)
 - [Duckweed - a potential high-protein feed resource for domestic animals and fish (1995)](http://www.lrrd.org/lrrd7/1/3.htm)
 - [Intelligence as a planetary scale process (2022)](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
+- [Encouraging Desistance from Crime (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3825106)
