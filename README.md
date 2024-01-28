@@ -99,3 +99,4 @@ New additions are made at the top of the list
 - [Duckweed - a potential high-protein feed resource for domestic animals and fish (1995)](http://www.lrrd.org/lrrd7/1/3.htm)
 - [Intelligence as a planetary scale process (2022)](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
 - [Encouraging Desistance from Crime (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3825106)
+- [Papers and patents are becoming less disruptive over time (2023)](https://www.nature.com/articles/s41586-022-05543-x)
