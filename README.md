@@ -100,3 +100,10 @@ New additions are made at the top of the list
 - [Intelligence as a planetary scale process (2022)](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
 - [Encouraging Desistance from Crime (2021)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3825106)
 - [Papers and patents are becoming less disruptive over time (2023)](https://www.nature.com/articles/s41586-022-05543-x)
+- [Annotated History of Modern AI and Deep Learning (2022)](https://arxiv.org/abs/2212.11279) - Also available as [static page](https://people.idsia.ch/~juergen/deep-learning-history.html) on the author`s website
+- [Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task (2024)](https://arxiv.org/abs/2401.02909)
+- [Machine Culture (2023)](https://arxiv.org/abs/2311.11388)
+- [BloombergGPT: A Large Language Model for Finance (2023)](https://arxiv.org/abs/2303.17564)
+- [Optimal sports betting strategies in practice: an experimental review (2021)](https://arxiv.org/abs/2107.08827)
+- [Deep order flow imbalance: Extracting alpha at multiple horizons from the limit order book (2023)](https://onlinelibrary.wiley.com/doi/abs/10.1111/mafi.12413)
+- [Outperforming Equal Weighting (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669267)
