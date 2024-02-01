@@ -107,3 +107,8 @@ New additions are made at the top of the list
 - [Optimal sports betting strategies in practice: an experimental review (2021)](https://arxiv.org/abs/2107.08827)
 - [Deep order flow imbalance: Extracting alpha at multiple horizons from the limit order book (2023)](https://onlinelibrary.wiley.com/doi/abs/10.1111/mafi.12413)
 - [Outperforming Equal Weighting (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4669267)
+- [The potential benefits of costly applications in grant contests (2022)](https://arxiv.org/abs/2207.02379)
+- [Rethinking the Ph.D. dissertation in botany: Widening the circle (2023)](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.16136) - Obviously applicable to more than botany
+- [Quantitative Political Science Research is Greatly Underpowered (2023)](https://osf.io/preprints/osf/7vy2f)
+- [Why Do College Graduates Behave More Healthfully than Those Who Are Less Educated? (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5570614/)
+- [The morphing of dictators: why dictators get worse over time (2023)](https://academic.oup.com/ooec/article/doi/10.1093/ooec/odad002/7036634)
