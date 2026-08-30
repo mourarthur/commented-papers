@@ -11,6 +11,7 @@ Direct quotes will generally be in *itallics*. Sometimes I will include direct t
 ## Read
 New additions are made at the top of the list
 
+- [The Despicable Doctor Fischer's (Bayesian) Bomb Party (1987)](https://academic.oup.com/teamat/article-abstract/6/4/179/1642678)
 - [Academic urban legends (2014)](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
 - [40 years of boxplots (2012)](notes/Boxplots.md)
 - [Drawing Presentable Trees (2008)](notes/Trees.md)
