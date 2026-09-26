@@ -113,3 +113,4 @@ New additions are made at the top of the list
 - [Quantitative Political Science Research is Greatly Underpowered (2023)](https://osf.io/preprints/osf/7vy2f)
 - [Why Do College Graduates Behave More Healthfully than Those Who Are Less Educated? (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5570614/)
 - [The morphing of dictators: why dictators get worse over time (2023)](https://academic.oup.com/ooec/article/doi/10.1093/ooec/odad002/7036634)
+- [Funk: a linguagem proibida - Um ponto de vista sociolinguístico (2015)](https://sapientia.pucsp.br/bitstream/handle/14368/1/Fernando%20Leite%20Morais.pdf)
